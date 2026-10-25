@@ -21,7 +21,3 @@ PyTorch로 딥러닝 모델을 학습시키는 기본기를 처음부터 차례�
   ```bash
   pip install torch numpy jupyter
   ```
-
-## 참고
-
-일부 예제는 [yukinaga/lecture_pytorch](https://github.com/yukinaga/lecture_pytorch)를 참고했습니다.
