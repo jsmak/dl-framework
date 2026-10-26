@@ -8,6 +8,7 @@ PyTorch로 딥러닝 모델을 학습시키는 기본기를 처음부터 차례�
 | 강 | 주제 | 노트북 |
 |---|---|---|
 | 3강 | 텐서(Tensor) — 생성, NumPy 변환, 인덱싱·슬라이싱, 연산과 브로드캐스팅, 통계 값 | [01_tensor.ipynb](03_tensor/01_tensor.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmak/dl-framework/blob/main/03_tensor/01_tensor.ipynb) |
+| 4강 | 순전파·역전파·경사하강법 — 섭씨→화씨 선형 모델로 학습 4단계(순전파, 손실 계산, 역전파, 경사하강법) 확인 | [02_gradientdecent.ipynb](04_gradient_descent/02_gradientdecent.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmak/dl-framework/blob/main/04_gradient_descent/02_gradientdecent.ipynb) |
 | 예정 | 자동미분과 Autograd (Define-by-Run) | |
 | 예정 | 옵티마이저 | |
 | 예정 | Dataset과 DataLoader | |
