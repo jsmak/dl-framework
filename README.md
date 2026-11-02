@@ -11,7 +11,7 @@ PyTorch로 딥러닝 모델을 학습시키는 기본기를 처음부터 차례�
 | 4강 | 순전파·역전파·경사하강법 — 섭씨→화씨 선형 모델로 학습 4단계(순전파, 손실 계산, 역전파, 경사하강법) 확인 | [02_gradientdecent.ipynb](04_gradient_descent/02_gradientdecent.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmak/dl-framework/blob/main/04_gradient_descent/02_gradientdecent.ipynb) |
 | 5강 | 자동미분과 계산 그래프 — NumPy로 Variable·Function을 직접 만들어 `backward()`를 구현하고 4강 문제를 학습 | [01_autograd_numpy.ipynb](05_autograd/01_autograd_numpy.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmak/dl-framework/blob/main/05_autograd/01_autograd_numpy.ipynb) |
 | 6강 | Dataset과 DataLoader — 캘리포니아 주택 데이터로 MLP 회귀 모델을 미니배치 학습하고 평가 | [06_mlp_regression.ipynb](06_mlp_regression/06_mlp_regression.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmak/dl-framework/blob/main/06_mlp_regression/06_mlp_regression.ipynb) |
-| 예정 | 옵티마이저 | |
+| 7강 | 딥러닝 최적화 — 옵티마이저 비교, L2 정규화·드롭아웃으로 과적합 줄이기, 100층 모델에서 배치·층 정규화와 잔차 연결로 기울기 소실 해결 | [07_optimization.ipynb](07_optimization/07_optimization.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jsmak/dl-framework/blob/main/07_optimization/07_optimization.ipynb) |
 | 예정 | 학습 루프 | |
 | 예정 | 평가 | |
 
